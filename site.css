@@ -3,7 +3,10 @@
 * {
   box-sizing: border-box;
 }
-
+header {
+  display: grid;
+  justify-content: center;
+}
 html {
   font-family: sans-serif;
   font-size: 16px;
